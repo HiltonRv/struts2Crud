@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="DSF_01TN_2162890424RODRIGUEZ">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="DSF_01TN_2162890424RODRIGUEZ"/>
+        <property name="java-output-path" value="/DSF_01TN_2162890424RODRIGUEZ/build/classes"/>
+    </wb-module>
+</project-modules>
